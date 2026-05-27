@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "launcher": {
-    "latest_version": "0.6.2",
+    "latest_version": "0.6.7",
     "released_at":    "2026-05-26T12:00:00Z",
-    "release_notes":  "Initial public manifest.\n\n• Update banner + Settings card\n• Docker daemon check\n• Cluster generator toggles (tiny-telemetry, otel-demo)",
+    "release_notes":  "K8s cluster settings bugs fixes",
     "download_page":  "https://github.com/coralogix/internal-cs-tools/releases/latest"
   }
 }
