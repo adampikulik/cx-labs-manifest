@@ -2,8 +2,9 @@
   "schema_version": 1,
   "launcher": {
     "latest_version": "0.7.1",
-    "released_at": "2026-05-29T07:18:55Z",
-    "release_notes": "cx-labs-launcher: auto-install missing brew prereqs + Edit personal key (v0.7.1) (#67)",
-    "download_page": "https://github.com/coralogix/internal-cs-tools/releases/tag/cx-labs-launcher%2Fv0.7.1"
+    "released_at": "2026-05-29T09:25:31Z",
+    "release_notes": "Merge branch 'master' of github.com:coralogix/internal-cs-tools\nNew version 0.7.1",
+    "download_page": "https://github.com/coralogix/internal-cs-tools/releases/tag/cx-labs-launcher%2Fv0.7.1",
+    "download_url": "https://github.com/coralogix/internal-cs-tools/releases/download/cx-labs-launcher%2Fv0.7.1/Coralogix%20Lab%20Runner_0.7.1_aarch64.dmg"
   }
 }
